@@ -1,0 +1,52 @@
+FLUCTUATIONS OF GLACIERS DATABASE
+
+(A) CITATION RECOMMENDATION
+
+The dataset is open access under requirement of correct citation of the related publications (2021, and earlier reports) and/or the original investigators and sponsoring agencies according to the available meta-information.
+
+(B) DIGITAL OBJECT IDENTIFIER AND RELATED METADATA OF THE CURRENT DATABASE VERSION
+
+Digital Object Identifier (DOI) for version 2021
+
+
+DOI for scientific data (Identifier): 10.5904/wgms-fog-2021-05
+
+Creator: World Glacier Monitoring Service (WGMS)
+
+Title: Fluctuations of Glaciers Database
+
+Publisher: World Glacier Monitoring Service (WGMS)
+
+Publication Year: 2021
+
+Release date: 2021-05-07
+
+Citation: WGMS (2021): Fluctuations of Glaciers Database. World Glacier Monitoring Service, Zurich, Switzerland. DOI:10.5904/wgms-fog-2021-05. Online access: http://dx.doi.org/10.5904/wgms-fog-2021-05
+
+Related publications:
+WGMS (2021): Global Glacier Change Bulletin No. 4 (2018-2019). Zemp, M., Nussbaumer, S.U., Gärtner-Roer, I., Bannwart, J., Paul, F., and Hoelzle, M. (eds.), ISC(WDS)/IUGG(IACS)/UNEP/UNESCO/WMO, World Glacier Monitoring Service, Zurich, Switzerland, 278 pp. Based on database version: doi:10.5904/wgms-fog-2021-05.
+
+WGMS (2013): Glacier Mass Balance Bulletin No. 12 (2010-2011). Zemp, M., Nussbaumer, S.U., Naegeli, K., Gärtner-Roer, I., Paul, F., Hoelzle, M. and Haeberli, W. (eds.), ICSU (WDS) / IUGG (IACS) / UNEP / UNESCO / WMO, World Glacier Monitoring Service, Zurich, Switzerland: 106 pp. Based on database version:doi:10.5904/wgms-fog-2013-11.
+
+WGMS (2012): Fluctuations of Glaciers 2005-2010 (Vol. X): Zemp, M., Frey, H., Gärtner-Roer, I., Nussbaumer, S.U., Hoelzle, M., Paul, F. & W. Haeberli (eds.), ICSU (WDS)/ IUGG (IACS)/ UNEP/ UNESCO/ WMO, World Glacier Monitoring Service, Zurich, Switzerland. Based on database version doi: 10.5904/wgms-fog-2012-11.
+
+....and earlier issues: https://wgms.ch/literature_published_by_wgms/
+
+Contributors: WGMS scientific collaboration network of national correspondents and principal investigators as listed in the related publications above.
+
+Language: English
+
+Data format: csv-file, zipped
+
+Data size: 100 MB
+
+Rights: Open access under requirement of correct citation (see above)
+
+Description: Internationally collected, standardized dataset on changes in glaciers (length, area, volume, mass), based on in-situ and remotely sensed observations, as well as on reconstructions.
+
+Spatial coverage: global
+
+Temporal coverage: 1535-2020 AD
+
+(C) DISCLAIMER
+The data might be subject to errors and inaccuracies. Hence, we strongly suggest to perform data quality checks and, in case of ambiguities, to contact us as well as the investigators and sponsoring agencies of the glaciers.

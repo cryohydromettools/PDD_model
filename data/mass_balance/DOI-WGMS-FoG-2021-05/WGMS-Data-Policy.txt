@@ -1,0 +1,11 @@
+WGMS Data Policy
+
+All data and information is freely available. The use requires acknowledgement to the WGMS and/or the original investigators and sponsoring agencies according to the available meta-information.
+
+When using these data, please cite as WGMS (2021 and earlier reports) and/or the original investigators and sponsoring agencies according to the available meta-information:
+
+WGMS 2021. Global Glacier Change Bulletin No. 4 (2018-2019). Zemp, M., Nussbaumer, S.U., Gärtner-Roer, I., Bannwart, J., Paul, F., and Hoelzle, M. (eds.), 
+ISC(WDS)/IUGG(IACS)/UNEP/UNESCO/WMO, World Glacier Monitoring Service, Zurich, Switzerland, 278 pp. Based on database version: doi:10.5904/wgms-fog-2021-05.
+
+The data might be subject to errors and inaccuracies. Hence, we strongly suggest to perform data quality checks and, in case of ambiguities, to contact us (https://wgms.ch) 
+as well as the investigators and sponsoring agencies of the glaciers!
